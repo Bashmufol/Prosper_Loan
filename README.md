@@ -1,9 +1,9 @@
 
 The Prosper Loan dataset contains information about over 110,000 loan listings and 81 varaibles pointing to a number of factors relating to the loan. Some popular variables include:
 
-Loan Status - Indicating the status of the loan. Whether it's cancelled, completed, defaulted or even past due date.
-Listing Category - The reason the borrower took the loan. Examples include Auto, Engagement rings, Wedding loans, and reasons as weird as Taxes.
-Occupation - This contains the occupation of the borrower.
+- Loan Status - Indicating the status of the loan. Whether it's cancelled, completed, defaulted or even past due date.
+- Listing Category - The reason the borrower took the loan. Examples include Auto, Engagement rings, Wedding loans, and reasons as weird as Taxes.
+- Occupation - This contains the occupation of the borrower.
 Other interesting variables abound in the dataset, and for this project we would be exploring the different variables and how they relate to one another. We would also be plotting some visualizations using univariate, bivariate, and multivariate plots to explore many relationships in the data set. Some findings and key insights would also be derived for a slidedeck presentation.
 
 # Summary of Findings
